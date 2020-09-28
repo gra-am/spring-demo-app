@@ -7,7 +7,7 @@ public class Name {
     private String name;
 
     public Name() {
-        name = "Graham";
+        name = "defaultname";
         id = 0;
     }
 
